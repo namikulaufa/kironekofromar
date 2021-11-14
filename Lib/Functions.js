@@ -49,7 +49,6 @@ this.request = request
 this.axios = axios
 this.ggs = ggs
 this.fetch = fetch
-this.yts = yts
 this.yargs = yargs
 this.path = path
 this.fs = fs
