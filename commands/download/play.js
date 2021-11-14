@@ -1,6 +1,5 @@
 const fs = Ft.fs
 const { servers, yta, ytv } = require("../../Lib/y2mate.js")
-let yts = require('yt-search')
 let fetch = require('node-fetch')
 
 module.exports = {
